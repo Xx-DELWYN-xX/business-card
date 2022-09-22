@@ -48,7 +48,7 @@ the design of your business card, e.g.:
     background: #00CCFA;
     padding-top: 55px;
     padding-bottom: 60px;
-    text-shadow: 0 10px 30px black;
+    text-shadow: 0 5px 30px black;
 }
 
 .back-card {
